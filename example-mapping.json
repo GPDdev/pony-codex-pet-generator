@@ -1,0 +1,15 @@
+{
+  "idle": {
+    "file": "stand.gif",
+    "frames": [0, 2, 0, 0, 0, 0],
+    "mirror": false
+  },
+  "running-right": {
+    "file": "fly.gif",
+    "mirror": false
+  },
+  "running-left": {
+    "file": "fly.gif",
+    "mirror": true
+  }
+}

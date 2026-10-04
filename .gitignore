@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+output/
+.readme-checkpoint-*.md
+README.draft.md
